@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">AI, Software and Digital Innovation</title><desc id="desc">Developer portfolio banner with violet and gold accents.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11111B"/><stop offset="1" stop-color="#291C42"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A78BFA" stroke-opacity=".12"/></pattern></defs>
+<rect width="1200" height="260" rx="18" fill="url(#bg)"/><rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+<path d="M825 22L1120 22 1180 82 1180 238 900 238 825 164Z" fill="#A78BFA" fill-opacity=".05" stroke="#A78BFA" stroke-opacity=".3"/>
+<g fill="none" stroke="#D4AF37" stroke-width="2" opacity=".7"><path d="M900 65H1030L1100 130 1030 195H900L850 130Z"/><path d="M850 130H1100M900 65L1030 195M1030 65L900 195"/></g><g fill="#D4AF37"><circle cx="850" cy="130" r="5"/><circle cx="1100" cy="130" r="5"/><circle cx="900" cy="65" r="5"/><circle cx="1030" cy="195" r="5"/></g>
+<rect x="58" y="47" width="48" height="4" fill="#D4AF37"/>
+<g font-family="system-ui,Segoe UI,Arial,sans-serif"><text x="58" y="87" font-size="18" letter-spacing="4" fill="#D4AF37">DEVELOPER PORTFOLIO</text><text x="58" y="142" font-size="44" font-weight="700" fill="#FFFFFF">S. V. S. Ramakrishna Naidu</text><text x="58" y="184" font-size="23" fill="#D8C8FA">AI · Software · Digital Innovation</text><text x="58" y="220" font-size="16" fill="#B7B2C8">Building intelligent, practical digital experiences.</text></g></svg>
