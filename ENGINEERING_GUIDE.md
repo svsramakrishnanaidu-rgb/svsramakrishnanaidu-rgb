@@ -1,6 +1,6 @@
 # Developer portfolio — Architecture and project review index
 
-This companion to the [profile README](README.md) provides a technical reading route through the seven project repositories. It distinguishes software applications, independent prototypes, research specifications and learning documentation. It is not a claim that every feature is live or that all projects share a backend.
+This companion to the [profile README](README.md) provides a technical reading route through the six project repositories. It distinguishes software applications, independent prototypes and research specifications. It is not a claim that every feature is live or that all projects share a backend.
 
 ## Portfolio relationship map
 
@@ -13,7 +13,6 @@ flowchart TD
  P --> W[LIMITLESS - wellness education]
  P --> F[FinTrack - expense journal]
  P --> A[LEO 2.0 - agent specification]
- P --> B[BSR Learning - research and catalog]
 ~~~
 
 ## Technical reading paths
@@ -26,7 +25,6 @@ flowchart TD
 | [limitless](https://github.com/svsramakrishnanaidu-rgb/limitless) | Health education, server-side provider failover and privacy |
 | [fin-tracker](https://github.com/svsramakrishnanaidu-rgb/fin-tracker) | Flutter UI, local expense storage and integer arithmetic |
 | [leo2.0ai](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai) | Planned agent architecture and reference permission policy |
-| [bsr-learning](https://github.com/svsramakrishnanaidu-rgb/bsr-learning) | Learning roadmap and case-study catalog |
 
 ## Shared engineering principles
 
