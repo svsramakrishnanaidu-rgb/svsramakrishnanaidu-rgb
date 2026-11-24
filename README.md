@@ -36,7 +36,6 @@ An AI orchestration application exploring model routing, evidence verification, 
 | [LEO 2.0 AI](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai) | Consent-based personal AI architecture | Specification and scaffold |
 | [BSR Learning](https://github.com/svsramakrishnanaidu-rgb/bsr-learning) | Learning roadmap and project catalog | Ongoing workspace |
 
-[Related LIMITLESS implementation](https://github.com/svsramakrishnanaidu-rgb/limitless.ai)
 
 ## Project previews
 
