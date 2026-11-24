@@ -70,3 +70,7 @@ LEO.AI is not an official government service. Project links and source documenta
 [Explore the complete portfolio](https://github.com/svsramakrishnanaidu-rgb/bsr-learning/blob/main/PROJECTS.md)
 
 </div>
+
+## Engineering guide
+
+[Explore working mechanisms, architecture diagrams and acceptance criteria](ENGINEERING_GUIDE.md). The guide distinguishes documented functionality from proposed improvements and tests that still require execution.
