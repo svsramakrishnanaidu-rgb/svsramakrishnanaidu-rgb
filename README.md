@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="AI, software and digital innovation" src="https://raw.githubusercontent.com/svsramakrishnanaidu-rgb/bsr-learning/main/docs/assets/portfolio-header.svg"/>
+<img width="100%" alt="AI, software and digital innovation" src="assets/portfolio-header.svg"/>
 
 # S. V. S. Ramakrishna Naidu
 
@@ -9,7 +9,7 @@
 Building practical, human-centered software and exploring multi-model AI systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-v-s-ramakrishna-naidu-39611a444/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-713B91?style=for-the-badge)](https://github.com/svsramakrishnanaidu-rgb/bsr-learning)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-713B91?style=for-the-badge)](https://github.com/svsramakrishnanaidu-rgb)
 [![Repositories](https://img.shields.io/badge/GitHub-Projects-171717?style=for-the-badge&logo=github)](https://github.com/svsramakrishnanaidu-rgb?tab=repositories)
 
 </div>
@@ -34,7 +34,6 @@ An AI orchestration application exploring model routing, evidence verification, 
 | [LIMITLESS](https://github.com/svsramakrishnanaidu-rgb/limitless) | Health education and wellness | Development application, not a medical service |
 | [FinTrack](https://github.com/svsramakrishnanaidu-rgb/fin-tracker) | Offline-first Flutter expense tracking | Application source |
 | [LEO 2.0 AI](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai) | Consent-based personal AI architecture | Specification and scaffold |
-| [BSR Learning](https://github.com/svsramakrishnanaidu-rgb/bsr-learning) | Learning roadmap and project catalog | Ongoing workspace |
 
 
 ## Project previews
@@ -67,7 +66,7 @@ LEO.AI is not an official government service. Project links and source documenta
 
 **AI • SOFTWARE • DIGITAL INNOVATION**
 
-[Explore the complete portfolio](https://github.com/svsramakrishnanaidu-rgb/bsr-learning/blob/main/PROJECTS.md)
+[Explore the complete portfolio](https://github.com/svsramakrishnanaidu-rgb/svsramakrishnanaidu-rgb/blob/main/ENGINEERING_GUIDE.md)
 
 </div>
 
